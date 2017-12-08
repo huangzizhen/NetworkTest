@@ -15,7 +15,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 /**
- * 你好啊，github
+ *
  */
 public class MainActivity extends AppCompatActivity  {
       TextView responseText;
